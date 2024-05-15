@@ -15,6 +15,9 @@
   
   Ấn nút Quay lại để chơi lại từ đầu.
 
+# IV. Tài liệu tham khảo:
+  https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php
+  Youtube: Trần Thị Minh Châu
 
 
 
