@@ -17,7 +17,7 @@
 
 # IV. Tài liệu tham khảo:
   https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php
-  Youtube: Trần Thị Minh Châu
-
+  
+  https://www.youtube.com/@tranthiminhchau9465
 
 
